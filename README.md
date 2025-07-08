@@ -6,3 +6,6 @@ Organizes photos in a 4x4 grid per page
 Supports .docx output
 
 Easy to configure and use..
+
+ Required Python Libraries
+ pip install python-docx
